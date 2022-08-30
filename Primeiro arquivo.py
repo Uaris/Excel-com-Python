@@ -22,3 +22,4 @@ planilha.close()
 
 #abrindo a planilha no Excel
 os.startfile(path)
+

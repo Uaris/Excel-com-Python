@@ -1,2 +1,2 @@
 # Excel-com-Python
-Repositório para armazenar os exercícios das aulas de Excel com Python (Udemy)
+Repositório de exercícios das aulas de Excel com Python (Udemy)
